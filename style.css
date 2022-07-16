@@ -1,0 +1,36 @@
+.jumbotron {
+  padding-top: 8rem;
+  background-color: #273036;
+}
+
+#work {
+  background-color: #e36e00;
+}
+
+#achievement {
+  background-color: #e36e00;
+}
+
+#contact {
+  background-color: #273036;
+}
+
+.card {
+  background-color: #273036;
+}
+
+b {
+  color: #e36e00;
+}
+
+section {
+  padding-top: 5rem;
+}
+.btn {
+  transition-duration: 0.4s;
+  background-color: #e36e00;
+}
+.btn:hover {
+  background-color: #633000;
+  color: antiquewhite;
+}
